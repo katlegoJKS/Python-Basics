@@ -52,7 +52,7 @@ print("\n")
 
 #Using color after importing 'os' syst. function
 #os.system('color A')
-print('\u001b[31mHello \u001b[33mWorld! \u001b[32min \u001b[34mdifferent \u001b[36mcolors: ')
+print('\u001b[31mHello \u001b[33mWorld! \u001b[32min \u001b[34mdifferent \u001b[36mcolors: ')       #copy color code from 'ansi color codes' on google
 
 #Creating message box after importing 'ctypes' syst. function
 #ctypes.windll.user32.MessageBoxA(O,'This is great','message',O)
